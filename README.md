@@ -21,7 +21,7 @@ Una implementación interactiva y divertida del clásico juego del "Ahorcado". E
 ![Correcto](screenshots/Correcto.png)
 
 ### Victoria
-
+![Victoria](screenshots/Victoria.png)
 
 ### Derrota
 ![Perdida](screenshots/Perdida.png)
