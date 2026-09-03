@@ -42,7 +42,7 @@ Una implementación interactiva y divertida del clásico juego del "Ahorcado". E
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clonar el repositorio
-2.    git clone https://github.com/Vanessa1356458/juego-ahorcado-windforms.git
+2.    git clone https://github.com/cvanessa-dev/juego-ahorcado-windforms.git
 ---
 
 ## 👩‍💻 Autora
